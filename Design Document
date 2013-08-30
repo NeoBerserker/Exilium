@@ -1,0 +1,211 @@
+Design Doc for:
+Exilio
+
+ “Awesome Crapware!”™
+
+
+All work Copyright ©2013 by Awesome crapware. (jkjk)
+
+Written by Neo
+
+Version # 1.00
+
+Thursday, August 29, 2013
+
+
+
+Design History
+
+This is a design doc for the game named “exilio”, which is going to be an open source project made with Byond, here you can find all the information reffering to this game and add your own ideas to be implemented,.
+
+Mark your ideas with a different color or w/e so others can figure.
+	
+
+
+Game Overview
+
+Philosophy
+
+Philosophical point #1
+
+This game will not try and change the world, it’s just a fun project made in a wimp.
+
+Common Questions
+
+What is the game?
+
+Exilio is a platformer adventure coop game, simple right, you jump and avoid traps which will surely kill you and your companions.
+
+
+
+
+Where does the game take place?
+
+The game takes place in the limbo. 
+
+	Describe the world that your game takes place in.  Simple as that.  Help frame it in the reader’s mind by spending a few sentences on it here.  You can go into lengthy detail later in a section solely dedicated to describing the world.  Remember that we want to keep this part of the design light and readable.
+
+
+What do I control?
+
+The player will be in control of  the soul of a poor guy that just died, your objective is to find your way out. On coop mode players will use different colored versions of the same “player base icon.”
+
+	Describe what the player will control.  You will be in charge of a band of rabid mutant fiddle players.  If you want you can switch on the AI and turn it into a fish bowl simulation.
+
+How many characters can the players control?
+
+Up to 4 characters on coop/multiplayer mode.
+
+What is the objective?
+
+The main objective is to exit the limbo going through the different levels and stages,  the players will face many obstacles on their way. 
+
+
+General Features
+
+3 different stages.
+Probably 3-5 levels per stage.
+2D graphics
+16-bit color
+
+
+Multiplayer Features
+
+Up to 4 players on coop.
+Can chat over  chatbox.
+
+Editor
+
+Maybe, maybe not a good idea
+
+Gameplay
+
+Non linear lvl design, players explore untill they find the exit to the next level.
+
+Players can jump to avoid obstacles, traps.
+
+On multiplayer  mode if a player dies he will respawn 20 seconds later, if all the players died they have to repeat the level or take it from the last check point.
+
+On single player mode you have 3 lives. (heart containers)
+
+On multiplayer mode each player has only 1 live.
+
+List of trap:
+Void: if you fall you die.
+Spikes: Don’t touch these.
+
+
+The Game World
+
+Overview
+
+The game takes place in the Limbo, there are different 3 stages.
+
+Objects
+
+Diamonds: You can collect these for some sort of score system.
+
+
+Camera
+
+Overview
+
+The camera will be centered on the player.
+Camera Detail #1
+
+Under construction.
+
+
+Game Engine
+BYOND
+
+
+
+
+Game Characters
+
+Overview
+
+The main character is the soul of a guy who’s death is unknown, he is now stuck in the Limbo.
+
+On multiplayer mode, the player represents a part of the soul of the same guy.
+
+Creating a Character
+
+When you join the game you will be asigned a character  randomly.
+
+Enemies and Monsters
+
+Monsters: are going to be Dark souls, so they will be basicly black.
+
+Types of monsters:
+
+Crawler: moves from right to left, if you touch them they will damage.
+
+Flyer: These are like bats.
+	
+Describe enemies or monsters in the world or whomever the player is trying to defeat.  Naturally this depends heavily on your game idea but generally games are about trying to kill something.
+
+
+User Interface
+
+Overview
+
+Interface only will show the score, the lifeof the player and a small Chat box.	
+
+
+
+Single-Player Game
+
+Overview
+
+Single player experience is pretty the same as Coop except you start with 3 lifes.
+Story
+
+So the player died and got stuck in the Limbo, he couldn’t find his way to heaven or w/e, because he is a remorseful soul, now he needs to find the way on his own.
+
+
+Victory Conditions
+
+If he beats all the stages he wins and game’s over.
+
+Multiplayer Game
+
+Overview
+
+Same as Single player but cooperative.
+
+Max Players
+
+4 players max.
+Server
+
+Client-server.
+
+
+Art assets
+
+Style: Side-view, platformer.
+
+-Main player base with 4 variations.
+-Background(s)
+-Turfs tiles
+-Void
+-Spikes traps
+-Monsters
+-Gui elements
+-Some obstacles
+
+
+Refferences
+
+For coop gameplay refference, Cloudberry kingdom and New super mario bros wii both multiplayer mode.
+
+
+Extra Miscellaneous Stuff
+
+Music and Sound Effects
+
+Working on…
+
+Crazy ideas
